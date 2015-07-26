@@ -1,2 +1,2 @@
 # CubeUpsetCreater
-create 2~7 order rubik's cube upset
+for now,there is a bug on creating disrupted pattern,still repairing.
